@@ -1,4 +1,9 @@
-为了增加大家的阅读体验，我重新进行了排版，并且增加了较为详细的目录供大家参考！如果有老哥对操作系统比较重要的知识总结过的话，欢迎找我哦！
+> 工作一年以上的小伙伴可以加这个交流群，群内有免费公开课,现在加入就送Java架构师进阶系列电子书籍：[![QQ群](https://img.shields.io/badge/QQ%E7%BE%A4-959442351-blue.svg)](https://jq.qq.com/?_wv=1027&k=5tjF8vk).
+>
+> 阿里云双12正在做活动啦，两折，需要的不要错过！新人专属,活动地址：[https://m.aliyun.com/act/team1212?params=N.TD4MOG6m2w](https://m.aliyun.com/act/team1212?params=N.TD4MOG6m2w)
+
+为了优化大家的阅读体验，我重新进行了排版，并且增加了较为详细的目录供大家参考！如果有老哥对操作系统比较重要的知识总结过的话，欢迎找我哦！如果想学 SpringBoot 的话，推荐笔主的另外一个仓库[springboot-integration-examples](https://github.com/Snailclimb/springboot-integration-examples)。笔主最近在学的一门课程推荐：[程序员的数学课推荐](#程序员的数学课)。12.7日新增内容：[Dubbo 总结第一弹！](https://github.com/Snailclimb/Java-Guide/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E6%95%B0%E6%8D%AE%E9%80%9A%E4%BF%A1/dubbo.md)
+
 
 <div align="center">  
 
@@ -9,10 +14,7 @@
 
 </div>
 
-仓库新增了【备战春招/秋招系列】，希望可以为马上面临春招或者以后需要面试的小老哥助力！目前更新了美团常见面试题以及一些面试必备内容。下面是腾讯云双11做的活动，最后几天了哦，秒杀的服务器很便宜哦！
-> 腾讯云热门云产品1折起，送13000元续费/升级大礼包：https://cloud.tencent.com/redirect.php?redirect=1034&cps_key=2b96dd3b35e69197e2f3dfb779a6139b&from=console
->
-> 腾讯云新用户大额代金券：https://cloud.tencent.com/redirect.php?redirect=1025&cps_key=2b96dd3b35e69197e2f3dfb779a6139b&from=console
+仓库新增了【备战春招/秋招系列】，希望可以为马上面临春招或者以后需要面试的小老哥助力！目前更新了美团常见面试题以及一些面试必备内容。
 
 
 ## 目录
@@ -29,6 +31,7 @@
 - [:computer: 计算机网络与数据通信](#computer-计算机网络与数据通信)
   - [网络相关](#网络相关)
   - [数据通信\(RESTful、RPC、消息队列\)](#数据通信restfulrpc消息队列)
+  - [Dubbo](#Dubbo)
 - [:iphone: 操作系统](#iphone-操作系统)
   - [Linux相关](#linux相关)
 - [:pencil2: 主流框架/软件](#pencil2-主流框架软件)
@@ -112,10 +115,13 @@
 * [计算机网络常见面试题](https://github.com/Snailclimb/Java_Guide/blob/master/计算机网络与数据通信/计算机网络.md)
 * [计算机网络基础知识总结](https://github.com/Snailclimb/Java_Guide/blob/master/计算机网络与数据通信/干货：计算机网络知识总结.md)
 
-### 数据通信(RESTful、RPC、消息队列)
+### 数据通信(RESTful、RPC、消息队列)总结
 
 * [数据通信(RESTful、RPC、消息队列)相关知识点总结](https://github.com/Snailclimb/Java-Guide/blob/master/计算机网络与数据通信/数据通信(RESTful、RPC、消息队列).md)
-  
+
+### Dubbo
+
+* [Dubbo 总结](https://github.com/Snailclimb/Java-Guide/blob/master/计算机网络与数据通信/dubbo.md)
 
 ## :iphone: 操作系统
 
@@ -218,13 +224,16 @@
 
 1. [全民云计算：ECS云服务器2折起,1核1G仅需293元/年](https://promotion.aliyun.com/ntms/act/qwbk.html?userCode=hf47liqn)
 2. [高性能企业级性能云服务器限时2折起,2核4G仅需720元/年](https://promotion.aliyun.com/ntms/act/enterprise-discount.html?userCode=hf47liqn)
-3. [拉1人拼团，立享云服务器￥234/年](https://promotion.aliyun.com/ntms/act/vmpt/aliyun-group/home.html?spm=5176.8849694.home.4.27a24b70kENhtV&userCode=hf47liqn)
-4. [最高￥1888云产品通用代金券](https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=hf47liqn) 
-5. [阿里云建站服务](https://promotion.aliyun.com/ntms/act/jianzhanquan.html?userCode=hf47liqn)（企业官网、电商网站，多种可供选择模板，代金券免费领取）
+3. [最高￥1888云产品通用代金券](https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=hf47liqn) 
+4. [阿里云建站服务](https://promotion.aliyun.com/ntms/act/jianzhanquan.html?userCode=hf47liqn)（企业官网、电商网站，多种可供选择模板，代金券免费领取）
+
+### 程序员的数学课
+
+![程序员的数学课](http://my-blog-to-use.oss-cn-beijing.aliyuncs.com/18-12-4/56085913.jpg)
 
 ### 公众号
 
-**你若盛开，清风自来。 欢迎关注我的微信公众号：“Java面试通关手册”，一个有温度的微信公众号。公众号多篇优质文章被各大社区转载，公众号后台回复关键字“1”你可能看到想要的东西哦！：**
+如果大家想要实时关注我更新的文章以及分享的干货的话，可以关注我的公众号。我是 ThoughtWorks 准入职Java工程师。专注Java知识分享！开源 Java 学习指南——JavaGuide（12k+ Star）的作者。公众号多篇文章被各大技术社区转载。公众号后台回复关键字“1”可以领取一份我精选的Java资源哦！可以扫描下方二维码或者通过微信的搜一搜搜索ID：“Java_Guide”即可。
 
 
-![我的公众号](http://my-blog-to-use.oss-cn-beijing.aliyuncs.com/18-11-18/49351424.jpg)
+![我的公众号](https://user-gold-cdn.xitu.io/2018/11/28/167598cd2e17b8ec?w=258&h=258&f=jpeg&s=27334)
